@@ -15,7 +15,7 @@ Jogo da velha desenvolvido em Portugol com o objetivo de conhecer o funcionament
 > -> Escolha o nome do Jogador 1: Vitor
 > -> Escolha o nome do Jogador 2: Danyllo
 >
-> [SUPER JOGO DA VELHA - RODADA Nº1]
+> \[SUPER JOGO DA VELHA - RODADA Nº1]
 > \[     ] \[     ] \[     ] 
 > \[     ] \[     ] \[     ] 
 > \[     ] \[     ] \[     ] 
@@ -23,7 +23,7 @@ Jogo da velha desenvolvido em Portugol com o objetivo de conhecer o funcionament
 > -> Vitor, escolha a linha: 2
 > -> Vitor, escolha a coluna: 1
 >
-> [SUPER JOGO DA VELHA - RODADA Nº2]
+> \[SUPER JOGO DA VELHA - RODADA Nº2]
 > \[     ] \[     ] \[     ] 
 > \[ O ] \[     ] \[     ] 
 > \[     ] \[     ] \[     ] 
@@ -31,7 +31,7 @@ Jogo da velha desenvolvido em Portugol com o objetivo de conhecer o funcionament
 > -> Danyllo, escolha a linha: 3
 > -> Danyllo, escolha a coluna: 3
 >
-> [SUPER JOGO DA VELHA - RODADA Nº3]
+> \[SUPER JOGO DA VELHA - RODADA Nº3]
 > \[     ] \[     ] \[    ] 
 > \[ O ] \[     ] \[    ] 
-> \[     ] \[     ] [ X ] 
+> \[     ] \[     ] \[ X ] 
