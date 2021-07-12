@@ -16,22 +16,22 @@ Jogo da velha desenvolvido em Portugol com o objetivo de conhecer o funcionament
 > -> Escolha o nome do Jogador 2: Danyllo
 >
 > [SUPER JOGO DA VELHA - RODADA Nº1]
-> [     ] [     ] [     ] 
-> [     ] [     ] [     ] 
-> [     ] [     ] [     ] 
+> \[     ] \[     ] \[     ] 
+> \[     ] \[     ] \[     ] 
+> \[     ] \[     ] \[     ] 
 >
 > -> Vitor, escolha a linha: 2
 > -> Vitor, escolha a coluna: 1
 >
 > [SUPER JOGO DA VELHA - RODADA Nº2]
-> [     ] [     ] [     ] 
-> [ O ] [     ] [     ] 
-> [     ] [     ] [     ] 
+> \[     ] \[     ] \[     ] 
+> \[ O ] \[     ] \[     ] 
+> \[     ] \[     ] \[     ] 
 >
 > -> Danyllo, escolha a linha: 3
 > -> Danyllo, escolha a coluna: 3
 >
 > [SUPER JOGO DA VELHA - RODADA Nº3]
-> [     ] [     ] [    ] 
-> [ O ] [     ] [    ] 
-> [     ] [     ] [ X ] 
+> \[     ] \[     ] \[    ] 
+> \[ O ] \[     ] \[    ] 
+> \[     ] \[     ] [ X ] 
