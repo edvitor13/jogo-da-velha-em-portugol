@@ -2,8 +2,6 @@
 
 Jogo da velha desenvolvido em Portugol com o objetivo de conhecer o funcionamento da linguagem. Desenvolvido no [Portugol Studio v2.7.5](https://github.com/UNIVALI-LITE/Portugol-Studio).
 
-Modificado para teste!
-
 **:page_with_curl: Como jogar:**
 
 - Informe o Nome do Jogador 1 e Jogador 2.
